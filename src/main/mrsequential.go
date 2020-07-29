@@ -7,7 +7,7 @@ package main
 //
 
 import "fmt"
-import "mr"
+import "github.com/jaydenwen123/mit-go/mr"
 import "plugin"
 import "os"
 import "log"

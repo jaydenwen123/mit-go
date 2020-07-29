@@ -8,7 +8,7 @@ package main
 // go run mrworker.go ../mrapps/wc.so
 //
 
-import "mr"
+import "github.com/jaydenwen123/mit-go/mr"
 import "plugin"
 import "os"
 import "fmt"
